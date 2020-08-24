@@ -82,7 +82,7 @@ function id_display_comments($option=null)
 		$html .= 'var idcomments_post_url;';
 		$html .= '</script>';
 		$html .= '<span id="IDCommentsPostTitle" style="display:none"></span>';
-		$html .= '<script type="text/javascript" src="http://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>';
+		$html .= '<script type="text/javascript" src="https://www.intensedebate.com/js/genericCommentWrapperV2.js"></script>';
 		$html .= '</div>';
 
 		return $html;
